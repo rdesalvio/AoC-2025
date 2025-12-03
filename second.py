@@ -1,4 +1,3 @@
-
 # part 1
 def is_repeating(num: str) -> bool:
     if len(num) % 2 != 0:
